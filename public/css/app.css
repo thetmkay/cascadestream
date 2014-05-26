@@ -38,3 +38,7 @@ html,body {
 	background-color: green;
 }
 
+.cs-hidden {
+	display: none;
+}
+

@@ -15,6 +15,8 @@
 			$(this).addClass('cs-full');
 			$(this).unbind('click');
 
+			$(this).find('.cs-hidden').show();
+
 			// $this.detach();
 
 			var $prev = $this.prevAll('.cs-full');

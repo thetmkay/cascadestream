@@ -33,6 +33,7 @@
 				if($siblings.length === 1) {
 					$(element).removeClass('cs-not-full')
 					$(element).addClass('cs-full');
+					$(element).children('.cs-hidden').removeClass('cs-hidden');
 				}
 
 				$(element).css({

@@ -1,4 +1,4 @@
-nodeprototype
+cascadestream
 =============
 
-quick build for prototyping
+A quick prototype exploring how to resolve several threads of vertical narratives. 

@@ -1,7 +1,7 @@
 {
-  "name": "nodeprototype",
+  "name": "cascadestream",
   "version": "0.0.0",
-  "description": "nodeprototype =============",
+  "description": "vertical narratives",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thetmkay/nodeprototype.git"
+    "url": "git://github.com/thetmkay/cascadestream.git"
   },
   "author": "thetmkay@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thetmkay/nodeprototype/issues"
+    "url": "https://github.com/thetmkay/cascadestream/issues"
   },
-  "homepage": "https://github.com/thetmkay/nodeprototype",
+  "homepage": "https://github.com/thetmkay/cascadestream",
   "dependencies": {
     "express": "^4.2.0"
   }

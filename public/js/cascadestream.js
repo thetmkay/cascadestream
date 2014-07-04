@@ -15,7 +15,7 @@
 			$(this).addClass('cs-full');
 			$(this).unbind('click');
 
-			$(this).find('.cs-hidden').show();
+			$(this).children('.cs-hidden').removeClass('cs-hidden');
 
 			// $this.detach();
 
